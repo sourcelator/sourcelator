@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![The Sorcelator - software engineer, computational scientist, crypto enthusiast](./img/night-city-cyberpunk.png)
+
 <!--
 **sourcelator/sourcelator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
