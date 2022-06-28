@@ -1,6 +1,9 @@
-### Hi there 👋
-
 ![The Sorcelator - software engineer, computational scientist, crypto enthusiast](./img/night-city-cyberpunk.png)
+
+# The Sorcelator
+
+A software engineer and computational scientist by trade.  Passionate about Rust, physics, and web3 crypto technology.
+
 
 <!--
 **sourcelator/sourcelator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
