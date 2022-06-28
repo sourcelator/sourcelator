@@ -1,8 +1,16 @@
 ![The Sorcelator - software engineer, computational scientist, crypto enthusiast](./img/night-city-cyberpunk.png)
 
-# The Sorcelator
-
 A software engineer and computational scientist by trade.  Passionate about Rust, physics, and web3 crypto technology.
+
+# 🚀 Interests
+- Solana web3 development
+- Rust
+
+
+# 🔭 Projects
+
+
+
 
 
 <!--
